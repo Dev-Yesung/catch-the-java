@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch06.TvTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-23T14:17:39" hostname="ysngs-MacBook-Air.local" time="0.038">
+  <properties/>
+  <testcase name="초기 전원 테스트" classname="ch06.TvTest" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
