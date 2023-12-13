@@ -1,4 +1,4 @@
-package com.udemy.section1;
+package com.udemy.section2;
 
 public class ThreadCreation1 {
 
@@ -22,7 +22,6 @@ public class ThreadCreation1 {
 		thread.setUncaughtExceptionHandler(uncaughtExceptionHandler);
 		thread.start();
 		// System.out.println("현재 스레드: " + Thread.currentThread().getName() + "\n새로운 스레드를 시작한 후 입니다.");
-
 		// Thread.sleep(10000);
 	}
 }

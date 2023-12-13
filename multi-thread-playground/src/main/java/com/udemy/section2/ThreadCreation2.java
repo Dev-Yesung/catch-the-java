@@ -1,4 +1,4 @@
-package com.udemy.section1;
+package com.udemy.section2;
 
 import java.util.ArrayList;
 import java.util.List;
