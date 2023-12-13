@@ -1,6 +1,6 @@
 package com.udemy.section1;
 
-public class Main {
+public class ThreadCreation1 {
 
 	// Java 8이상은 람다로 Runnable을 구현할 수 있음
 	static Runnable task = () -> {
