@@ -9,7 +9,12 @@ import java.util.List;
 
 import javax.imageio.ImageIO;
 
-public class ImageProcessing {
+/**
+ * 레이턴시(지연시간)을 최적화하는 방법의 예시<br>
+ * 하나의 이미지를 할당하고자 하는 스레드의 수만큼 분리한 후<br>
+ * 각각의 스레드가 병렬적으로 이미지를 처리하도록 만든다.<br>
+ */
+public class LatencyOptimization {
 	public static final String SOURCE_FILE = "./resources/many-flowers.jpg";
 	public static final String DESTINATION_FILE = "./many-flowers.jpg";
 
