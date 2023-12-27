@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="153c1865-dff4-431f-b062-36580415f9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/InspectArrayObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/JsonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/data/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/data/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/section3/data/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,21 +53,47 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propCompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.InspectArrayObject">
+    <configuration name="InspectArrayObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.section3.InspectArrayObject" />
+      <module name="java-reflection-playground.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.section3.JsonWriter" />
+      <module name="java-reflection-playground.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.udemy.section3.Main" />
       <module name="java-reflection-playground.main" />
@@ -80,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InspectArrayObject" />
+        <item itemvalue="Application.JsonWriter" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -96,6 +127,7 @@
       <workItem from="1702483461389" duration="10000" />
       <workItem from="1703562097289" duration="60000" />
       <workItem from="1703562159182" duration="3088000" />
+      <workItem from="1703643744799" duration="4537000" />
     </task>
     <servers />
   </component>
