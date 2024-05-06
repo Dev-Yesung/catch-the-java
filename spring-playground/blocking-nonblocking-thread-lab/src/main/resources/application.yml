@@ -1,0 +1,6 @@
+# https://findstar.pe.kr/2023/07/02/java-virtual-threads-2/
+spring.application.name: blocking-nonblocking-thread-lab
+spring:
+  threads:
+    virtual:
+      enabled: true
